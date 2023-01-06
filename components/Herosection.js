@@ -4,7 +4,7 @@ function Herosection() {
   return (
     <div className='my-20'>
       <h1 className='text-4xl font-bold text-center text-gray-900 md:text-8xl'>
-        Welcome to 
+        WELCOME TO
         <span className='text-yellow-500'>WADAF ETHIOPIA MINING PLC</span> 
         <span className='text-blue-700'></span> 
       </h1>

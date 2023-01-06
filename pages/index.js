@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Responsive footer</title>
+        <title>Responsive footer </title>
         <link rel="icon" href="WADAF.jpg" />
       </Head>
       {/* <h1 className="text-6xl font-bold text-indigo-500 underline">
